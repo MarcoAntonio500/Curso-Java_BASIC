@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;aula31alt&apos; to &apos;cursojava&apos;" description="Move &apos;aula31alt&apos; to &apos;cursojava&apos;" destination="/cursojava" element1="/loiane/cursojava/aula31alt" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1716481138451" updateReferences="true"/>
+</session>
